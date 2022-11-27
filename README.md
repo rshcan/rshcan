@@ -10,14 +10,15 @@
 class Ayhuuu:
 
 def  __social__(self):
- self.gtb = "https://github.com/Ayhuuu"
- self.dsc = "Ayhu#1337"
- self.tlg = "https://t.me/Ayhhuu"
+ self.gtb = "https://github.com/rssh1337"
+ self.dsc = "rsh#1337"
+ self.tlg = "https://t.me/rssh_1337"
+ self.gtb = "https://www.instagram.com/rssh.1337/"
   
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(rssh1337@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":rssh1337" /></p>
 
  
 
