@@ -7,7 +7,7 @@
 ┌──(Ruush@root)-[~/]
 └─$ cat Ruush.py
 
-class Ayhuuu:
+class Ruush:
 
 def  __social__(self):
  self.gtb = "https://github.com/rssh1337"
