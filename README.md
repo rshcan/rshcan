@@ -4,8 +4,8 @@
 </div>
 
 ```python
-┌──(Ayhuuu@root)-[~/]
-└─$ cat Ayhuuu.py
+┌──(Ruush@root)-[~/]
+└─$ cat Ruush.py
 
 class Ayhuuu:
 
