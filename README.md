@@ -18,7 +18,7 @@ def  __social__(self):
  ┌──(rssh1337@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":rssh1337" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:-" alt=":-" /></p>
 
  
 
