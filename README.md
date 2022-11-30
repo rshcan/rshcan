@@ -4,8 +4,8 @@
 </div>
 
 ```python
-┌──(Ruush@root)-[~/]
-└─$ cat Ruush.py
+┌──(rsh@root)-[~/]
+└─$ cat rsh.py
 
 class Ruush:
 
@@ -18,7 +18,7 @@ def  __social__(self):
  ┌──(rssh1337@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/github:-" alt=":-" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
  
 
