@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
-    <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/701439362310602782)](https://discord.com/users/701439362310602782)"></a>
+    <a href="https://lanyard.cnrad.dev/api/701439362310602782)](https://discord.com/users/701439362310602782)"></a>
 </div>
 
 ```python
