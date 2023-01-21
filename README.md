@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
-    <a href="https://discord.com/users/830512569122160721" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/830512569122160721"></a>
+    <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/701439362310602782)](https://discord.com/users/701439362310602782)"></a>
 </div>
 
 ```python
@@ -10,10 +10,10 @@
 class Ruush:
 
 def  __social__(self):
- self.gtb = "https://github.com/rssh1337"
+ self.gtb = "https://github.com/rshx1337"
  self.dsc = "rsh#1337"
- self.tlg = "https://t.me/rssh_1337"
- self.gtb = "https://www.instagram.com/rssh.1337/"
+ self.tlg = "https://t.me/rshx1337"
+ self.gtb = "https://www.instagram.com/rshx1337/"
   
  ┌──(rssh1337@root)-[~/]
  └─$
