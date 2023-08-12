@@ -1,23 +1,22 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
-<div align="center">
-    <a href="https://lanyard.cnrad.dev/api/669269551057469451)](https://discord.com/users/669269551057469451)"></a>
-</div>
 
+
+<a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(rsh@root)-[~/]
-└─$ cat rsh.py
+┌──(Ayhuuu@root)-[~/]
+└─$ cat Ayhuuu.py
 
-class Ruush:
+class Ayhuuu:
 
 def  __social__(self):
- self.gtb = "https://github.com/rshcan"
- self.dsc = "rsh.can"
- self.tlg = "https://t.me/rshcxn"
- self.gtb = "https://www.instagram.com/rsh.rat/"
+ self.gtb = "https://github.com/Ayhuuu"
+ self.dsc = "Ayhu..." 
+ self.tlg = "Ayhu..."
   
- ┌──(rssh1337@root)-[~/]
+ ┌──(Ayhuuu@root)-[~/]
  └─$
 ```
+
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
  
@@ -42,6 +41,5 @@ def  __social__(self):
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-
-
+<a href="https://github.com/Ayhuuu/"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 
