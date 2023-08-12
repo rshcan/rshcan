@@ -1,23 +1,23 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 
-<a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+<a href="https://github.com/rshcan"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
 ┌──(Ayhuuu@root)-[~/]
-└─$ cat Ayhuuu.py
+└─$ cat rshcan.py
 
-class Ayhuuu:
+class rshcan:
 
 def  __social__(self):
- self.gtb = "https://github.com/Ayhuuu"
- self.dsc = "Ayhu..." 
- self.tlg = "Ayhu..."
+ self.git = "https://github.com/rshcan"
+ self.dsc = "rsh.can" 
+ self.tlg = "rshcxn"
   
  ┌──(Ayhuuu@root)-[~/]
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:rshcan" alt=":rshcan" /></p>
 
  
 
