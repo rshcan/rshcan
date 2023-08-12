@@ -13,7 +13,7 @@ def  __social__(self):
  self.dsc = "rsh.can" 
  self.tlg = "rshcxn"
   
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(resehe@root)-[~/]
  └─$
 ```
 
