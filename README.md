@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
-    <a href="https://lanyard.cnrad.dev/api/701439362310602782)](https://discord.com/users/701439362310602782)"></a>
+    <a href="a"></a>
 </div>
 
 ```python
@@ -10,10 +10,10 @@
 class Ruush:
 
 def  __social__(self):
- self.gtb = "https://github.com/rshx1337"
- self.dsc = "rsh#1337"
- self.tlg = "https://t.me/rshx1337"
- self.gtb = "https://www.instagram.com/rshx1337/"
+ self.gtb = "https://github.com/rshcan"
+ self.dsc = "rsh.can"
+ self.tlg = "https://t.me/rshcxn"
+ self.gtb = "https://www.instagram.com/rsh.rat/"
   
  ┌──(rssh1337@root)-[~/]
  └─$
