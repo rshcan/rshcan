@@ -3,7 +3,7 @@
 
 <a href="https://github.com/rshcan"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(Ayhuuu@root)-[~/]
+┌──(rsh+dev@root)-[~/]
 └─$ cat rsh.py
 
 class rshcan:
