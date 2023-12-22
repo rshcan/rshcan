@@ -10,7 +10,7 @@ class rshcan:
 
 def  __social__(self):
  self.gtb = "https://github.com/rshcan"
- self.dsc = "rsh.can" 
+ self.dsc = "rshcxn" 
  self.tlg = "rshcxn"
   
  ┌──(resehe@root)-[~/]
